@@ -1,8 +1,8 @@
 - [Mapboxgl渲染大量建筑面数据](https://github.com/bxlulu/bxl.github.io/blob/8ea7e6fc7a4b38a95cfad27e604d6a177aa4bcfd/mapbox-large-buildings.vue)
 - [Mapboxgl渲染大量线数据](https://github.com/bxlulu/bxl.github.io/blob/3a4d39675a28eee75b7e48063fec39bdb607c71b/mapbox-large-waterways.vue)
-- [Mapboxgl渲染世界城市点数据](https://github.com/QingyaFan/openlayers-examples/blob/master/mapbox-large-world-cities.vue)
-- [Openlayers渲染WebGLPoint图层](https://github.com/QingyaFan/openlayers-examples/blob/master/webgl-points.vue);
-- got-map.html，[权利的游戏-静态图片地图](http://cheerfun.xyz/openlayers-examples/got-map.html)；
+- [Mapboxgl渲染世界城市点数据](https://github.com/bxlulu/bxl.github.io/blob/8feac5b0534cbb6159c43617a3e9bf728f6f3570/mapbox-large-world-cities.vue)
+- [Openlayers渲染WebGLPoint图层](https://github.com/bxlulu/bxl.github.io/blob/ff0261369b3ef2d7339e85d8eb51ac749753498a/webgl-points.vue);
+- got-map.html，[权利的游戏-静态图片地图](https://github.com/bxlulu/bxl.github.io/blob/204d88a69c16f1731e4072d5833109efe9e5186c/got-map.html)；
 - tianditu.html，[加载天地图图层](http://cheerfun.xyz/openlayers-examples/tianditu.html)；
 - point-cluster.html，[全球地震点聚集](http://cheerfun.xyz/openlayers-examples/point-cluster.html)；
 - measure-distance-area.html，[绘制&测量距离和面积](http://cheerfun.xyz/openlayers-examples/measure-distance-area.html)；

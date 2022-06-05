@@ -1,4 +1,4 @@
-- [Mapboxgl渲染大量建筑面数据]([mapbox-large-buildings.vue](https://github.com/bxlulu/bxl.github.io/blob/8ea7e6fc7a4b38a95cfad27e604d6a177aa4bcfd/mapbox-large-buildings.vue))
+- [Mapboxgl渲染大量建筑面数据](https://github.com/bxlulu/bxl.github.io/blob/8ea7e6fc7a4b38a95cfad27e604d6a177aa4bcfd/mapbox-large-buildings.vue)
 - [Mapboxgl渲染大量线数据](https://github.com/QingyaFan/openlayers-examples/blob/master/mapbox-large-waterways.vue)
 - [Mapboxgl渲染世界城市点数据](https://github.com/QingyaFan/openlayers-examples/blob/master/mapbox-large-world-cities.vue)
 - [Openlayers渲染WebGLPoint图层](https://github.com/QingyaFan/openlayers-examples/blob/master/webgl-points.vue);

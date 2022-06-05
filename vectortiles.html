@@ -30,7 +30,7 @@
             resolutions.push(156543.03392804097 / Math.pow(2, i * 2));
         }
 
-        let url = `http://cheerfun.xyz/vt/tile/{z}/{x}/{y}?`;
+        let url = `https://{a-c}.tile.openstreetmap.org/{z}/{x}/{y}.png`;
         url += `table=(select * from cn_pg where admin_level = '4') as subquery`;
         url += `&`;
         url += `geometry_field=way`;

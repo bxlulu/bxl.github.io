@@ -109,9 +109,8 @@ var displayFeatureInfo = function (pixel) {
 
 };
 
-/** 
- * 鼠标移动
- */
+// 鼠标移动
+ 
 map.on('pointermove', function (evt) {
     if (evt.dragging) {   //如果是拖动地图造成的鼠标移动，则不作处理  
         return;
@@ -120,9 +119,8 @@ map.on('pointermove', function (evt) {
     displayFeatureInfo(pixel);
 }); 
 
-/** 
- * 鼠标点击 
- */
+// 鼠标点击 
+
 map.on('click', function (evt) {
     var pixel = map.getEventPixel(evt.originalEvent);
     var feature = map.forEachFeatureAtPixel(pixel, function (feature, layer) {
@@ -141,9 +139,8 @@ map.on('click', function (evt) {
     map.addOverlay(overlay);
 });
 
-/** 
- * 隐藏弹出框的函数 
- */
+// 隐藏弹出框的函数 
+ 
 closer.onclick = function () {
     overlay.setPosition(undefined);
     closer.blur();
